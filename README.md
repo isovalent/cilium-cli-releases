@@ -1,0 +1,1 @@
+# cilium-cli-releases
